@@ -1,7 +1,8 @@
-# mlzoomcamp
+# Machine Learning Bookcamp
 Learn ML engineering in 4 months in a free online course by  @Al_Grigor  from  @DataTalksClub
 
-#### Here the links
+#### Here the links  
+
 | Name        | URL           |
 | ------------- |:-------------:|
 | Materials and homework      | [mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) |
